@@ -4,7 +4,6 @@
 - 🌱 I'm currently learning about Web Development
 - 💬 Feel free to ask me about Web development
 - 📫 How to reach me: ikhwanw06@gmail.com
-<-- - ⚡ Fun fact: I'm Freelance! -->
 
 <p align="left">
 <a href="https://github.com/riansyaputra123">
