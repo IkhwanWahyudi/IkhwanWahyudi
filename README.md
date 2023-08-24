@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**IkhwanWahyudi/IkhwanWahyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, My name is Moh Ikhwan Wahyudi 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🔭 I am currently studying at Mulawarman University majoring in Informatics
+- 🌱 I'm currently learning about Web Development
+- 💬 Feel free to ask me about Web development
+- 📫 How to reach me: ikhwanw06@gmail.com
+- ⚡ Fun fact: I'm Freelance!
+
+<p align="left">
+<a href="https://github.com/riansyaputra123">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IkhwanWahyudi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkhwanWahyudi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
