@@ -32,8 +32,8 @@
 
 ### 🤝 Let's Connect!
 <p align="left">
-  <a href="https://github.com/IkhwanWahyudi" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-IkhwanWahyudi-181717?style=flat&logo=github&logoColor=white" />
+  <a href="https://instagram.com/ikhwan_whydi" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ikhwan__whydi-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:ikhwanw06@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-ikhwanw06@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
