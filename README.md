@@ -40,10 +40,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Moh_Ikhwan_Wahyudi-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" />
   </a>
   <br />
-  <a href="https://github.com/IkhwanWahyudi" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-IkhwanWahyudi-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-  <br />
   <a href="https://www.instagram.com/ikhwan_whydi?igsh=MWtieTh1ZmlxbHo0Ng==" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ikhwan__whydi-0D1117?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=0D1117" />
   </a>
